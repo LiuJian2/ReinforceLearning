@@ -23,4 +23,5 @@ Windows环境直接运行请看项目路径下encrypt.bat文件
 * Email：lj6631184@126.com
 * QQ : 610491429
 * WeChat: lj610491429
+
 ![sn0wdr1am](https://github.com/LiuJian2/ReinforceLearning/blob/master/me.png)
